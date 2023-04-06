@@ -1,7 +1,8 @@
 # Product-Page
-Thiw Product Page is Made by the Core of Html and css with the responsive ability.  
+This Product Page is Made by the Core of Html and css with the responsive ability.  
 
-You just need to clone the project or just do copy paste.
+You just need to clone the project or just do copy paste.  
+
 Images which is used inside the web page are belongs to freecodecamp.
 
 Some of the Screenshots of web page are shown in below.
